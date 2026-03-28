@@ -1,0 +1,10 @@
+ultralytics      # Isme latest YOLO models hote hain (YOLOv8, v9, v10)
+opencv-python    # Video aur camera feeds read karne ke liye
+numpy            # Math aur arrays ke liye
+supervision      # ByteTrack aur Gate Counting ke liye
+torch            # Deep learning ke liye (YOLO models ke liye)
+torchvision      # YOLO models ke liye
+scipy            # Kalman Filter ke liye (ByteTrack ke liye)
+filterpy          # Kalman Filter ke liye (ByteTrack ke liye)
+matplotlib       # Visualization ke liye (optional, debugging ke liye)
+pandas           # Data handling ke liye (optional, logging ke liye)

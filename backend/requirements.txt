@@ -1,0 +1,4 @@
+# Backend Python dependencies
+# Add packages here, for example:
+# fastapi
+# uvicorn
