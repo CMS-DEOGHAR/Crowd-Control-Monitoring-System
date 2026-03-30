@@ -1,3 +1,4 @@
+this file lists the Python dependencies for the backend of the project. Each line should contain the name of a package, optionally followed by a version specifier. For example:
 # Backend Python dependencies
 # Add packages here, for example:
 # fastapi
