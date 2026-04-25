@@ -1,0 +1,5 @@
+STAGE 1 BASELINE METRICS (YOLOv10)
+========================================
+Total Test Images Processed: 316
+MAE (Mean Absolute Error): 111.7975
+MSE (Mean Squared Error):  21759.9620

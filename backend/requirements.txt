@@ -1,5 +1,20 @@
-this file lists the Python dependencies for the backend of the project. Each line should contain the name of a package, optionally followed by a version specifier. For example:
-# Backend Python dependencies
-# Add packages here, for example:
-# fastapi
-# uvicorn
+# Web Framework
+fastapi           # High-performance async REST API framework
+uvicorn[standard] # ASGI server for running FastAPI
+
+# Real-time Communication
+python-socketio   # WebSocket support for live dashboard updates
+
+# AI & Vision (shared with ai_models)
+torch
+torchvision
+ultralytics
+opencv-python
+supervision
+scipy
+Pillow
+numpy
+
+# Utilities
+python-multipart  # File upload support (for image/video endpoints)
+pydantic          # Data validation and settings management

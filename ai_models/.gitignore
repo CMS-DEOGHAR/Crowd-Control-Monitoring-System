@@ -1,0 +1,15 @@
+# Ignore Heavy AI Model Weights
+*.pt
+*.pth
+*.pth.tar
+partBmodel_best.pth.tar
+yolov10n.pt
+
+# Ignore Datasets & Demo Videos
+part_B/
+*.mat
+*.mp4
+sample_crowd.mp4
+
+# Ignore cache
+__pycache__/
