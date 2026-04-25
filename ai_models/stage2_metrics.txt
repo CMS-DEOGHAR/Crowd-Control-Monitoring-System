@@ -1,0 +1,5 @@
+STAGE 2 METRICS — CSRNet (Density Estimation)
+========================================
+Total Images Processed : 316
+MAE (Mean Abs. Error)  : 89.3513
+MSE (Mean Sq. Error)   : 13409.8639
