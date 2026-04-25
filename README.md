@@ -108,6 +108,11 @@ python evaluate_yolo.py
 python evaluate_csrnet.py
 ```
 
+//commands
+<!-- pip install ultralytics opencv-python supervision torch torchvision numpy scipy Pillow
+python main.py
+python optical_flow.py
+python demo_heatmap.py -->
 ### Frontend
 
 ```bash
