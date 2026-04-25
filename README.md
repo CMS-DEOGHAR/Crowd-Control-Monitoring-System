@@ -2,6 +2,11 @@
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Visit%20Now-brightgreen?style=flat&logo=vercel)](https://cms-mu-blush.vercel.app)
+
+## 🌐 Live Dashboard
+**[https://cms-mu-blush.vercel.app](https://cms-mu-blush.vercel.app)**
+> Deployed on Vercel — Click to open the live Admin Command Center.
 
 ## Project Overview
 
